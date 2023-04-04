@@ -1,4 +1,4 @@
-# KIM-1 Replica
+# KIM-1 Dual 6530-6532 adapter
 
 ## Introduction
 
