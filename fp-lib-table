@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KIM-1_Library")(type "KiCad")(uri "${KIPRJMOD}/footprints/KIM-1_Library.pretty")(options "")(descr ""))
+)
