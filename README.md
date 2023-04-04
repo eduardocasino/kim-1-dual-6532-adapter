@@ -10,7 +10,7 @@ As far as I know, this is the only board that allows you to replace both 6530 ch
 
 I designed ths board for [my KIM-1 PCB replica](https://github.com/eduardocasino/kim-1), but it will also work with real KIM-1s that have both RRIOTs missing or broken.
 
-The schematic is based on Ruud Baltissen's KIM-1 replica, with very minor modifications.The PCB features hand-traced tracks to seamlessly integrate with the KIM-1 board:
+The schematic is based on Ruud Baltissen's KIM-1 replica, with very minor modifications. The PCB features hand-traced tracks to seamlessly integrate with the KIM-1 board:
 
 ![board installed](https://github.com/eduardocasino/kim-1-dual-6532-adapter/raw/main/images/kim-1-with-daughterboard.png)
 
