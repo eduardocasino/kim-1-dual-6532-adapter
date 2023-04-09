@@ -32,3 +32,4 @@ See the LICENSE.md file for details.
 
 * Hans Otten and his [Retro Computing blog](http://retro.hansotten.nl/). Everything you need to know about the RRIOT and RIOT.
 * Ruud Baltissen for [the original schematic](http://www.baltissen.org/newhtm/buildkim.htm).
+* Frank Wolf and Dieter a.k.a. ttlworks for their [6530-004 dissection](http://forum.6502.org/viewtopic.php?f=4&t=6711) (Also [here](http://retro.hansotten.nl/6502-sbc/tim-6530-004/6530-004-dissected/)).
