@@ -28,6 +28,12 @@ EXCEPTION: The electrical schematic and all the associated symbols are licensed 
 
 See the LICENSE.md file for details.
 
+## Changelog
+
+#### 09/04/2023
+* Make ROM content available on phi2 only
+* Add decoupling capacitor to ROM chip
+
 ## Acknowledgements
 
 * Hans Otten and his [Retro Computing blog](http://retro.hansotten.nl/). Everything you need to know about the RRIOT and RIOT.
