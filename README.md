@@ -29,7 +29,8 @@ EXCEPTION: The electrical schematic and all the associated symbols are licensed 
 See the LICENSE.md file for details.
 
 ## Changelog
-
+#### 05/05/2023
+* Fix tracks that were not well imported from svg
 #### 09/04/2023
 * Make ROM content available on phi2 only
 * Add decoupling capacitor to ROM chip
