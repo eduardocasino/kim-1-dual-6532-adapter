@@ -14,7 +14,9 @@ The schematic is based on Ruud Baltissen's KIM-1 replica, with very minor modifi
 
 ![board installed](https://github.com/eduardocasino/kim-1-dual-6532-adapter/raw/main/images/kim-1-with-daughterboard.png)
 
-WARNING: I have not yet sent the board to fabrication, so it is untested!
+~~WARNING: I have not yet sent the board to fabrication, so it is untested!~~
+
+The board has been successfully tested with my [my KIM-1 replica](https://github.com/eduardocasino/kim-1)
 
 ## Licensing
 
